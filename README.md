@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert Gökmen</h1>
 <h3 align="center">Computer Engineering student at Uludag University</h3>
 
-- 🔭 I’m currently working on **improving my skills**
+- 🚀 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **Angular**
+- ✨ I’m currently learning **Angular**
 
 - 📫 You can reach me at **mertgkmeen@gmail.com**
 
