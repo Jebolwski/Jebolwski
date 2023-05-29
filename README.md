@@ -3,7 +3,7 @@
 
 - 🚀 I’m currently working on **improving my skills**
 
-- ✨ I’m currently learning **Angular**
+- ✨ I’m currently learning **.NET Framework**
 
 - 📫 You can reach me at **mertgkmeen@gmail.com**
 
