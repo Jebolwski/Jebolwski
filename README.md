@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **.NET Framework**
+- 🌱 I’m currently learning **SAP ABAP**
 
 - 📫 How to reach me **mertgkmeen@gmail.com**
 
