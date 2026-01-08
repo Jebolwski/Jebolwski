@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Gökmen</h1>
-<h3 align="center">Computer Engineering student at Uludag University</h3>
+<h3 align="center">Computer Engineering</h3>
 
 - 🔭 I’m currently working on **improving my skills**
 
