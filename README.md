@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert Gökmen</h1>
 <h3 align="center">Computer Engineer</h3>
 
-- 🔭 I’m currently working on **improving my skills**
-
-- 🌱 I’m currently learning **SAP ABAP**
-
 - 📫 How to reach me **mertgkmeen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
