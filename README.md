@@ -18,9 +18,5 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jebolwski&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jebolwski&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jebolwski&theme=default" alt="GitHub Streak" />
 
